@@ -1,4 +1,4 @@
-# pytorch implementation for the STAR model in CIKM 2019
+## pytorch implementation for the STAR model in CIKM 2019 "STAR: Spatio-Temporal Taxonomy-Aware Tag Recommendation for Citizen Complaints"
 ## Packages
 - python 3.6
 - torch 1.0.1
